@@ -1,16 +1,19 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Ayoola Fakoya
+avatar: /static/images/ayoola_fakoya.jpeg
+occupation: AI Developer
+company: NeoInpressio
+email: ayoola@ayoolafakoya.com
+twitter: https://twitter.com/fakoyaayoola
+linkedin: https://www.linkedin.com/in/ayofakoya/
+github: https://github.com/Ayo-faks
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am a self-taught, Freelance creative AI Developer with experience in Web development, MLOps, and NLP. I empower data scientists, and businesses to make accurate decisions about their business.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I am a self-taught, Freelance creative AI Developer with experience in Web development, MLOps, and NLP. I empower data scientists, and businesses to make accurate decisions about their business.
+I am comfortable working with Python, PyTorch, Tensorflow, Hugging face, and JavaScript to deliver exceptional customer solutions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have added intelligence to a customer care agency application, assisting agents and reducing average call times by 10-15 seconds. This expanded their customer sentiment visibility from 12% to 100% and provided a 5x increase in response to recommended product solutions, resulting in increased monthly revenue.
+
+I am also a music producer and have worked in the advertising/entertainment industry for over 10 years. During that time, I worked with various big brands and produced award-winning Jingles including the Big brother Naija theme song.

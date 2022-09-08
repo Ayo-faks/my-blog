@@ -19,14 +19,19 @@ const Giscus = ({ mapping }) => {
     setEnabledLoadComments(false)
     const script = document.createElement('script')
     script.src = 'https://giscus.app/client.js'
-    script.setAttribute('data-repo', siteMetadata.comment.giscusConfig.repo)
-    script.setAttribute('data-repo-id', siteMetadata.comment.giscusConfig.repositoryId)
-    script.setAttribute('data-category', siteMetadata.comment.giscusConfig.category)
-    script.setAttribute('data-category-id', siteMetadata.comment.giscusConfig.categoryId)
-    script.setAttribute('data-mapping', mapping)
-    script.setAttribute('data-reactions-enabled', siteMetadata.comment.giscusConfig.reactions)
-    script.setAttribute('data-emit-metadata', siteMetadata.comment.giscusConfig.metadata)
-    script.setAttribute('data-theme', commentsTheme)
+    script.setAttribute('data-repo', 'Ayo-faks/my-blog')
+    script.setAttribute('data-repo-id', 'R_kgDOH8Q_9w')
+    script.setAttribute('data-category', 'Announcements')
+    script.setAttribute('data-category-id', 'DIC_kwDOH8Q_984CRPij')
+    script.setAttribute('data-mapping', 'pathname')
+    script.setAttribute('data-strict', '1')
+    script.setAttribute('data-reactions-enabled', '1')
+    script.setAttribute('data-emit-metadata', '0')
+    script.setAttribute('data-theme', 'preferred_color_scheme')
+    script.setAttribute('data-lang', 'en')
+    script.setAttribute('data-loading', 'lazy')
+    script.setAttribute('crossorigin', 'anonymous')
+
     script.setAttribute('crossorigin', 'anonymous')
     script.async = true
 
